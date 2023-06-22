@@ -1,2 +1,5 @@
 # API-update-zone-config
-API call to update zone
+
+Make CF CPI calls to multiple zones.
+
+Prompts for API keys and email
