@@ -2,4 +2,4 @@
 
 Make CF CPI calls to multiple zones.
 
-Prompts for API keys and email
+Prompts for API token and email
